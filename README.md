@@ -1,5 +1,5 @@
 <div align='center' border-bottom:none !important;>
-<img src='./' />
+
 <h1>Mohsen salmani</h1>
 <h3>
   I am Mohsen Salmanizadeh, a computer science student.
