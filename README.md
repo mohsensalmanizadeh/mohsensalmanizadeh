@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='center' border-bottom:none !important;>
 <img src='./' />
 <h1>Mohsen salmani</h1>
 <h2>
