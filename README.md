@@ -6,4 +6,4 @@
 </h2>
 </div>
 <h3>My Expertise</h3>
-<img src='[https://skillicons.dev/icons?i=html,css](https://skillicons.dev/icons?i=html,css,wordpress)' alt='Languages ​​learned' />
+<img src='https://skillicons.dev/icons?i=html,css,wordpress' alt='Languages ​​learned' />
