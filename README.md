@@ -14,9 +14,7 @@
 
 <div display:inline-block;>
   <h2>Socials:</h2>
-  <div >
     <a href="https://t.me/Uronik" style="text-decoration: none">Telegram</a>
   <a href="https://youtube.com/webilio" style="text-decoration: none">YouTube</a>
   <a href="https://instagram.com/mosii_183" style="text-decoration: none">Instagram</a>
-  </div>
 </div>
