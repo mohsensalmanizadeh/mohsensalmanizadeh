@@ -44,7 +44,7 @@ Currently learning modern web technologies and building responsive, user-friendl
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/mosii_183">
+<a href="https://instagram.com/awat.dev">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
