@@ -2,10 +2,10 @@
 
 # Hi 👋 I'm Mohsen Salmanizadeh
 
-### 💻 Computer Science Student | Front-End Developer
+### 💻 Computer Engineering Student | Front-End Developer
 
-I'm a Computer Science student passionate about Front-End development.  
-Currently learning modern web technologies and building responsive, user-friendly websites.
+I'm a Computer Engineering student passionate about Front-End Development.  
+I enjoy creating modern, responsive, and user-friendly web interfaces while improving my skills with new technologies.
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 
@@ -15,10 +15,11 @@ Currently learning modern web technologies and building responsive, user-friendl
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Tailwind CSS**
-- 🎯 Goal: Become a Professional Front-End Developer
-- 💡 Interested in UI/UX, Responsive Design, and Modern Web Development
+- 🎓 Computer Engineering Student
+- 💻 Front-End Developer
+- 🌱 Currently learning Tailwind CSS, JavaScript and modern web technologies
+- 🎯 Goal: Become a Professional Front-End Engineer
+- 💡 Interested in UI/UX, Web Performance and Clean Code
 
 ---
 
