@@ -17,9 +17,9 @@ I enjoy creating modern, responsive, and user-friendly web interfaces while impr
 
 - 🎓 Computer Engineering Student
 - 💻 Front-End Developer
-- 🌱 Currently learning Tailwind CSS, JavaScript and modern web technologies
-- 🎯 Goal: Become a Professional Front-End Engineer
-- 💡 Interested in UI/UX, Web Performance and Clean Code
+- ⚡ Skilled in HTML, CSS, Tailwind CSS, Responsive Design and Git/GitHub
+- 🌱 Currently learning JavaScript and expanding my modern web development skills
+- 🎯 Goal: Build fast, responsive and user-friendly web applications
 
 ---
 
