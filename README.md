@@ -1,4 +1,6 @@
-<div align="center">
+<div align="left">
+
+![Header](./mohsen.jpeg)
 
 # Hi 👋 I'm Mohsen Salmanizadeh
 
@@ -7,35 +9,22 @@
 I'm a Computer Engineering student passionate about Front-End Development.  
 I enjoy creating modern, responsive, and user-friendly web interfaces while improving my skills with new technologies.
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Computer Engineering Student
-- 💻 Front-End Developer
-- ⚡ Skilled in HTML, CSS, Tailwind CSS, Responsive Design and Git/GitHub
-- 🌱 Currently learning JavaScript and expanding my modern web development skills
-- 🎯 Goal: Build fast, responsive and user-friendly web applications
-
----
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github" />
 </p>
 
 
 
----
-
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://t.me/Uronik">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
