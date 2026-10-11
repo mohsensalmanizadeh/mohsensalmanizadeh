@@ -17,7 +17,7 @@ I enjoy creating modern, responsive, and user-friendly web interfaces while impr
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github" />
 </p>
 
 
