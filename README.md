@@ -1,32 +1,7 @@
-```
+<div align="center">
 
-                :=.--.:
-            -++=+=-+-                                      your_name@github
-           .**:-=.:             ..::.                      -----------------
-          .-.                       ....                   OS: Kali Linux, macOS
-          ==.          ....                                Uptime: X years
-         .-+-. -*=---=+++++*+=.                            Host: YourBrand
-         :+*+:*@+==+++++**###%#*-                          Kernel: Your Role / Title
-          :+-*@%==++=++*#########+.                        Tools: Tool1, Tool2, Tool3
-         .##%@#==++++==---=++*#%##+.
-         .==*:  .:-+=:.    .-=+*%%#:                       Languages.Programming: Python, Bash, TypeScript
-           .    .::+-       .=##*##*.                      Languages.Computer: SQL, HTML, YAML, Markdown
-       .:  -    .=+*:.    ...=**++++-.                     Languages.Real: Persian, English
-        ...++: .+*##+-:::.:--+**###*:    .:
-         .*%+=++-*++#+====+*##%%%%%%+.+*#%#*               Focus.Offense: Web App & API Pentesting
-          %#+++--+*******##%%%%%%%%%*=%#*%**:.:-:...       Focus.Research: Vuln Research, Red Teaming
-          #%#+====+**##*##%%%%%%%%##*+#*+*#+  ... .:...
-          +@#*=---=+++++###%%%%%%%#####%%#+. .::.          - Contact
-          -@#*==+++*###*##%%%%%%%%##*+#*+.    ..   .-:::   Email: you@example.com
-           %#++===+**###############*#-       .     .      Website: yoursite.com
-           =%#*==++**###########****%#        .     ::..   LinkedIn: your-id
-            -*==+++++*************#%%-        :     -:::   Instagram: your_id
-..           =*--==========+++**##%%#         .     ...
-             #%=----=====++*####%%%%=         .     ...    - GitHub Stats
-             @*=======+++*#####%%%%%.         :     ::.    Repos: 0 | Stars: 0
-       .=+-=%%===++++++++*####%%%%%*          .     ....   Commits: 0 | Followers: 0
-    :-*@@@###+-=+++********##%%%%%#*          :     :-:.
-+*%%@@@%#**++=-=++***#*****###%%%###+-       .:     ..
-@%#####*********+++**##*****###%####=+#=.     .
-@@%#*****#******##****#**++**###*##*.-%@%#+-
-```
+![profile](profile.svg)
+
+[Website](https://webilio.ir) · [LinkedIn](https://www.linkedin.com/in/mohsen-salmanizadeh-b16688349/) · [X](https://x.com/mohsen_cw) · [Telegram](https://t.me/Uronik) · [Email](mailto:mohsensalmanizadeh67@gmail.com)
+
+</div>
